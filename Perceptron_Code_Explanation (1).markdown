@@ -1,6 +1,4 @@
-# Lab2-
-Perceptron and Adaline
-
+# Understanding the Perceptron Code in Python
 
 This Python code implements a **Perceptron**, a simple machine learning model for **binary classification**—sorting data into two categories, like deciding if a fruit is an apple (+1) or an orange (-1). The Perceptron learns by adjusting weights based on mistakes, like a robot fine-tuning its decisions. Below, we’ll explain each part of the code in a way that’s easy to understand, using analogies and examples.
 
